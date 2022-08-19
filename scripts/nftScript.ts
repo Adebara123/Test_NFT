@@ -21,7 +21,7 @@ async function main() {
 
   //This is my contact address for rinkeby network 0x3Add56D1197163286731B40f0f91690ECb9dE204
   // This is the opensea url https://testnets.opensea.io/account?tab=created&search%5BresultModel%5D=ASSETS&search%5BsortBy%5D=CREATED_DATE&search%5BsortAscending%5D=false
-  // This ismy ipfs 
+  // This is my ipfs image https://ipfs.filebase.io/ipfs/QmNtXPxSLbj5JpSHA2W9s3HTS1D3A2pfg1vm55bKuufpMs
 }
 
 // We recommend this pattern to be able to use async/await everywhere
